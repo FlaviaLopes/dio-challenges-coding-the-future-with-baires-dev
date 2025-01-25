@@ -2,7 +2,7 @@
 
 📌 O resultado das predições do modelo ResNet50 com transfer learning, treinado no conjunto CelebA no projeto_1, foi avaliado a partir das principais métricas de classificação. 
 
-A solução está neste diretório, no notebook do Google Colab [`Métricas de validação para modelos de ML.ipynb`](https://github.com/FlaviaLopes/dio-challenges-coding-the-future-with-baires-dev/blob/main/projeto_3/Métricas de validação para modelos de ML.ipynb).
+A solução está neste diretório, no notebook do Google Colab [`Métricas de validação para modelos de ML.ipynb`](https://github.com/FlaviaLopes/dio-challenges-coding-the-future-with-baires-dev/blob/main/projeto_3/Métricas_de_validação_para_modelos_de_ML.ipynb).
 
 $Mas$ $antes$ $disso$... Entenda um pouco mais sobre o desafio.
 
