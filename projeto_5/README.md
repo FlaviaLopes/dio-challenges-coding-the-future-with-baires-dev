@@ -1,6 +1,6 @@
 # Criando um sistema de reconhecimento facial do zero
 
-A solução está neste diretório, no notebook do Google Colab [`name`](https://github.com/FlaviaLopes/dio-challenges-coding-the-future-with-baires-dev/blob/main/projeto_5/name.ipynb).
+A solução está neste diretório, no notebook do Google Colab [`name`](https://github.com/FlaviaLopes/dio-challenges-coding-the-future-with-baires-dev/blob/main/projeto_5/Criando_um_sistema_de_reconhecimento_facial_do_zero.ipynb).
 
 $Mas$ $antes$ $disso$... Entenda um pouco mais sobre o desafio.
 
@@ -40,4 +40,5 @@ De qualquer forma, isso pode ser bem contornado adicionando mais exemplos de Ary
 ![prediction 1](https://raw.githubusercontent.com/FlaviaLopes/dio-challenges-coding-the-future-with-baires-dev/refs/heads/main/projeto_5/output/predictions_got-the-end_1_.gif)
 
 Aqui, mais um trecho do vídeo de teste.
+
 ![prediction 2](https://raw.githubusercontent.com/FlaviaLopes/dio-challenges-coding-the-future-with-baires-dev/refs/heads/main/projeto_5/output/predictions_got-the-end_2_.gif)
