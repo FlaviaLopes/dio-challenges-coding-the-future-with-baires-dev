@@ -36,6 +36,7 @@ link do meu dataset é público em: https://universe.roboflow.com/brothers-onqjy
 Aqui, vemos uma confusão em alguns frames entre as classes Arya, Sansa e Others. No geral, o modelo detecta bem o rosto do John e confunde o rosto de Bran, que deveria ser Others, com o de Árya. Pode ser que os exemplos com Bran/Others tenham sido menos frequentes em treino.
 
 De qualquer forma, isso pode ser bem contornado adicionando mais exemplos de Arya, bem como das demais classes, mantendo o equilíbrio entre os totais de amostras.
+Em `datasets/GoT/runs/detect/train22` você pode conferir resultados, estatísticas do treinamento e alguns gráficos, como a matriz confusão. Nela, vemos que as classes majoritárias tem maior taxa de TP.
 
 ![prediction 1](https://raw.githubusercontent.com/FlaviaLopes/dio-challenges-coding-the-future-with-baires-dev/refs/heads/main/projeto_5/output/predictions_got-the-end_1_.gif)
 
